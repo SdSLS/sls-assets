@@ -6,6 +6,9 @@ Simplemente, en tu código referencia los links a las imágenes, o en tus archiv
 ```html
 <img src="https://github.com/SdSLS/sls-assets/blob/master/logo_256.jpg?raw=true">
 ```
+```markdown
+![asset1](https://github.com/SdSLS/sls-assets/blob/master/logo_256.jpg?raw=true)
+```
 **USAR `?raw=true` SIEMPRE QUE SE QUIERA USAR COMO IMAGEN.**
 
 ## Assets actuales
