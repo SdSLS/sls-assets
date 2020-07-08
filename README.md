@@ -18,7 +18,7 @@ Simplemente, en tu código referencia los links a las imágenes, o en tus archiv
 ![sls](nocat/items.png?raw=true)
 ![sls](nocat/interface.png?raw=true)
 ![sls](nocat/sls_pelota.png?raw=true)
-![sls](nocat/handsome.png?raw=true)
+![sls](nocat/handsome.jpg?raw=true)
 ![sls](nocat/costra422.png?raw=true)
 ![sls](nocat/comparition.png?raw=true)
 
