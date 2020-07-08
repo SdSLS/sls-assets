@@ -11,8 +11,20 @@ Simplemente, en tu código referencia los links a las imágenes, o en tus archiv
 ```
 **USAR `?raw=true` SIEMPRE QUE SE QUIERA USAR COMO IMAGEN.**
 
-## Assets actuales
-Poseemos actualmente assets como el logo oficial, comparaciones entre versiones viejas, y más!
-
+## Assets sin categoría
 ![sls](nocat/logo_256.png?raw=true)
+![sls](nocat/pruebas_de_eso.png?raw=true)
+![sls](nocat/rtx.png?raw=true)
+![sls](nocat/sls_pelota.png?raw=true)
+![sls](nocat/items.png?raw=true)
+![sls](nocat/interface.png?raw=true)
+![sls](nocat/handsome.png?raw=true)
+![sls](nocat/costra422.png?raw=true)
+![sls](nocat/comparition.png?raw=true)
+
+## Categoría tamed
 ![tamed](tamed/comma.png?raw=true)
+![tamed](tamed/cartoon.png?raw=true)  
+![tamed](tamed/kernel.png?raw=true)
+![tamed](tamed/hiba.png?raw=true)
+![tamed](tamed/alfitrion.png?raw=true)
