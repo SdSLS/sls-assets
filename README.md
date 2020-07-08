@@ -11,6 +11,13 @@ Simplemente, en tu código referencia los links a las imágenes, o en tus archiv
 ```
 **USAR `?raw=true` SIEMPRE QUE SE QUIERA USAR COMO IMAGEN.**
 
+## Categoría tamed
+![tamed](tamed/comma.png?raw=true)
+![tamed](tamed/cartoon.png?raw=true)  
+![tamed](tamed/kernel.png?raw=true)
+![tamed](tamed/hiba.png?raw=true)
+![tamed](tamed/alfitrion.png?raw=true)  
+
 ## Assets sin categoría
 ![sls](nocat/logo_256.png?raw=true)
 ![sls](nocat/pruebas_de_eso.png?raw=true)
@@ -21,10 +28,3 @@ Simplemente, en tu código referencia los links a las imágenes, o en tus archiv
 ![sls](nocat/handsome.jpg?raw=true)
 ![sls](nocat/costra422.png?raw=true)
 ![sls](nocat/comparition.png?raw=true)
-
-## Categoría tamed
-![tamed](tamed/comma.png?raw=true)
-![tamed](tamed/cartoon.png?raw=true)  
-![tamed](tamed/kernel.png?raw=true)
-![tamed](tamed/hiba.png?raw=true)
-![tamed](tamed/alfitrion.png?raw=true)
