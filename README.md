@@ -18,6 +18,7 @@ Simplemente, en tu código referencia los links a las imágenes, o en tus archiv
 ![tamed](tamed/hiba.png?raw=true)
 ![tamed](tamed/alfitrion.png?raw=true)  
 ![tamed](tamed/mafioso.png?raw=true)
+![tamed](tamed/context_mafioso.png?raw=true)
 
 ## Assets sin categoría
 ![sls](nocat/logo_256.png?raw=true)
