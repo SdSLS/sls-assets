@@ -20,6 +20,9 @@ Simplemente, en tu código referencia los links a las imágenes, o en tus archiv
 ![tamed](tamed/mafioso.png?raw=true)
 ![tamed](tamed/context_mafioso.png?raw=true)
 ![tamed](tamed/inentendible.png?raw=true)
+![tamed](tamed/penoso.png?raw=true)
+![tamed](tamed/mexicanismo.png?raw=true)
+![tamed](tamed/papas_inmortales.png?raw=true)
 
 ## Assets sin categoría
 ![sls](nocat/logo_256.png?raw=true)
